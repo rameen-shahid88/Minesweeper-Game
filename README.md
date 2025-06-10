@@ -6,3 +6,4 @@ A simple and fun console-based implementation of the classic Minesweeper game, w
 - Win/loss detection
 - Recursive reveal for empty cells (flood-fill)
 - Input validation and error handling
+- Saving gameplay based on username using file-handling
